@@ -1,0 +1,10 @@
+docker TUTORIALS
+1)https://www.hostinger.com/tutorials/run-docker-wordpress
+2)https://contabo.com/blog/how-to-remove-docker-volumes-images-and-containers/#:~:text=You%20can%20identify%20these%20volumes,command%20to%20delete%20them%20all.
+
+
+10 Steps to Create a Website Strategy
+3)https://mailchimp.com/resources/how-to-develop-a-website-strategy/
+
+Курс Wordpress-разработчик
+4)https://www.youtube.com/watch?v=r2aUryHcHD8&list=PL3LQJkGQtzc66eiaqOVgIVQ5mw4_6KqDd&index=6
